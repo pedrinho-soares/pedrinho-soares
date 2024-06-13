@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente, estou trabalhando com **Análise de Dados**
 
-- 🌱 Estou aprendendo **Python e Machine Learning**
+- 🌱 Estou aprendendo **Python e Machine Learning aplicado a Ciência de Dados**
 
 - 👨‍💻 Poderá encontrar alguns projetos [https://www.linkedin.com/in/pedro-soares-16b893168/](https://www.linkedin.com/in/pedro-soares-16b893168/)
 
