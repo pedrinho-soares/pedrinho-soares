@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Pedro Soares</h1>
 <h3 align="center">Viver de Dados é o futuro da nova geração</h3>
 
-- 🔭 **Cientista de Dados | Analista de Dados**
+- 🔭 **Cientista de Dados | Analista de Dados | Desenvolvedor Python**
 
 - 🌱 **Projetos de Análises de Dados, SQL, Python aplicado a análises, Bibliotecas em Python, Pandas**
 
