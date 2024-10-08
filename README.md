@@ -3,7 +3,7 @@
 
 - 🔭 **Cientista de Dados | Analista de Dados | Desenvolvedor Python**
 
-- 🌱 **Projetos de Análises de Dados, SQL, Python aplicado a análises, Bibliotecas em Python, Pandas**
+- 🌱 **Projetos de Data Science, Análise de Dados, SQL, Python, Biblioteca Pandas e muito mais você encontra aqui**
 
 - 👨‍💻 Poderá encontrar alguns projetos [https://www.linkedin.com/in/pedro-soares-16b893168/](https://www.linkedin.com/in/pedro-soares-16b893168/)
 
