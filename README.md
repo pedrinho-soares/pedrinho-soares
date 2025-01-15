@@ -1,11 +1,11 @@
 <h1 align="center">Olá, meu nome é Pedro Soares</h1>
 <h3 align="center">Viver de Dados é o futuro da nova geração</h3>
 
-- 🔭 **Cientista de Dados | Analista de Dados | Desenvolvedor Python**
+- 🔭 **Cientista de Dados**
 
-- 🌱 **Projetos de Data Science, Análise de Dados, SQL, Python, Biblioteca Pandas e muito mais você encontra aqui**
+- 🌱 **Data Science | Análise de Dados | SQL | Crédito | Python**
 
-- 👨‍💻 Poderá encontrar alguns projetos [https://www.linkedin.com/in/pedro-soares-16b893168/](https://www.linkedin.com/in/pedro-soares-16b893168/)
+- 👨‍💻 Poderá encontrar alguns projetos (https://www.linkedin.com/in/pedrosoares-scientist/)
 
 
 <h3 align="left">Connect with me:</h3>
