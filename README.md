@@ -9,7 +9,7 @@
   - Ferramentas: Git, Docker, Kubernetes, Apache Spark, Hadoop
   - Visualização de Dados: Tableau, Power BI, Matplotlib, Seaborn, Plotly
   - Cloud: AWS (S3, EC2, SageMaker), Google Cloud Platform, Azure
-  - Modelagem: Regressão, Classificação, Clustering, NLP, Deep Learning
+  - Modelagem de Dados, Machine Learning (Regressão, Classificação, Clustering) NLP, Deep Learning
 
 - Rio de Janeiro, Brazil
 - Email: pedro.mello@outlook.com.br
