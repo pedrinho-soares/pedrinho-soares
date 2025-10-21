@@ -1,14 +1,17 @@
 <h1 align="center">Olá, meu nome é Pedro Soares</h1>
 <h3 align="center">Data Scientist | Machine Learning Enginner | GenIA</h3>
 
-- Sou o Cientista de Dados conhecido por criar soluções que impactam positivamente as pessoas e os negócios. Com +2 anos de experiência usando Inteligência em Dados em setores de **Vendas, Varejo, Crédito, Imóveis, Telefonia...**, já trabalhei em projetos que vão desde a previsão de tendências de mercado até a criação de sistemas de recomendação e previsão de churn que antecipa uma tomada de decisão em negócios. **Sou uma pessoa que não apenas gosto de me comunicar com outros mas consigo garantir que todos entendam um insight e uma decisão.**
+- Como Cientista de Dados, contribuo com o desenvolvimento de soluções de IA e Machine Learning que apoiem 
+decisões estratégicas de negócio. Sempre estou em times orientado por dados e inovação, aplicando minhas habilidades 
+em Python, SQL, análise de risco e automação de processos e expandindo minha atuação em modelagem estatística, 
+LLMs e pipelines de dados em nuvem. **
 
 - Habilidades técnicas:
 - Estatistica Aplicada, Teste de hipóteses/Testes A/B
   - Linguagens: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL
   - Ferramentas: Git, Docker, Kubernetes, Apache Spark, Hadoop
   - Visualização de Dados: Tableau, Power BI, Matplotlib, Seaborn, Plotly
-  - Cloud: AWS (S3, EC2, SageMaker), Google Cloud Platform, Azure
+  - Cloud: AWS (S3, EC2, SageMaker, DynamoDB), Google Cloud Platform, Azure
   - Modelagem de Dados, Machine Learning (Regressão, Classificação, Clustering) NLP, Deep Learning
 
 - Rio de Janeiro, Brazil
